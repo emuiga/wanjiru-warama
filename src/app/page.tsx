@@ -75,7 +75,7 @@ export default function Home() {
               <div className="flex flex-col md:flex-row md:items-center gap-4 md:gap-6">
                 <div className="flex-1">
                   <h3 className="text-xl sm:text-2xl font-semibold tracking-wide uppercase">Subscribe to Newsletter</h3>
-                  <p className="mt-1 text-xs opacity-90">…and get detailed pictorial summary of book #1, Red Right Return</p>
+                  <p className="mt-1 text-xs opacity-90">…and get updates in your inbox</p>
                 </div>
                 <form className="w-full md:w-auto flex items-center gap-3">
                   <div className="relative w-full md:w-[420px]">
